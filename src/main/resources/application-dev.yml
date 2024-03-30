@@ -1,0 +1,6 @@
+server:
+  port: 9999
+  tomcat:
+    max-swallow-size: -1
+  servlet:
+    context-path: /wechatbot
